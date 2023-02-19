@@ -17,11 +17,10 @@ void EvenOddSum(int arr[], int n)
 			odd += arr[i];
 	}
 
-	cout << "Even index positions sum " << even;
-	cout << "\nOdd index positions sum " << odd;
+	cout << "Here Even index positions sum " << even;
+	cout << "\nand Odd index positions sum " << odd;
 }
 
-// Driver function
 int main()
 {
 	int arr[] = { 1, 2, 3, 4, 5, 6 };
