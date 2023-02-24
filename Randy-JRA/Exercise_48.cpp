@@ -4,7 +4,7 @@
 using namespace std;
 
 string longestWordInSentence(string str) {
-    // algorithm to count the number of words in the above string literal/ sentence
+    // we write the algorithm to count the number of words in the above string literal/ sentence
     int words = 0;
     for (int i = 0; i < str.length(); i++) {
         if (str[i] == ' ') {
@@ -14,7 +14,7 @@ string longestWordInSentence(string str) {
     words += 1;  
     string strWords[words];
 
-    // this algorithm appends individual words in the array strWords
+    // this algorithm appends the individual words in the array strWords
     short counter = 0;
     for (short i = 0; i < str.length(); i++) {
         strWords[counter] += str[i];
@@ -34,7 +34,7 @@ string longestWordInSentence(string str) {
         }
     }
 
-    return longestWord;  // return the longest word
+    return longestWord;  // return the longest word in the sentence
 }
 
 int main() {
