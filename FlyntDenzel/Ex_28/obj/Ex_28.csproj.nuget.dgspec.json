@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nchang/Documents/GitHub/Challenge/p2-25-coding-challenges-ds/FlyntDenzel/Ex_28/Ex_28.csproj": {}
+    "/home/nchang/Documents/GitHub/new_challenge/p2-25-coding-challenges-ds/FlyntDenzel/Ex_28/Ex_28.csproj": {}
   },
   "projects": {
-    "/home/nchang/Documents/GitHub/Challenge/p2-25-coding-challenges-ds/FlyntDenzel/Ex_28/Ex_28.csproj": {
+    "/home/nchang/Documents/GitHub/new_challenge/p2-25-coding-challenges-ds/FlyntDenzel/Ex_28/Ex_28.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nchang/Documents/GitHub/Challenge/p2-25-coding-challenges-ds/FlyntDenzel/Ex_28/Ex_28.csproj",
+        "projectUniqueName": "/home/nchang/Documents/GitHub/new_challenge/p2-25-coding-challenges-ds/FlyntDenzel/Ex_28/Ex_28.csproj",
         "projectName": "Ex_28",
-        "projectPath": "/home/nchang/Documents/GitHub/Challenge/p2-25-coding-challenges-ds/FlyntDenzel/Ex_28/Ex_28.csproj",
+        "projectPath": "/home/nchang/Documents/GitHub/new_challenge/p2-25-coding-challenges-ds/FlyntDenzel/Ex_28/Ex_28.csproj",
         "packagesPath": "/home/nchang/.nuget/packages/",
-        "outputPath": "/home/nchang/Documents/GitHub/Challenge/p2-25-coding-challenges-ds/FlyntDenzel/Ex_28/obj/",
+        "outputPath": "/home/nchang/Documents/GitHub/new_challenge/p2-25-coding-challenges-ds/FlyntDenzel/Ex_28/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nchang/.nuget/NuGet/NuGet.Config"
